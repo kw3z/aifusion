@@ -1,4 +1,5 @@
 # **✨ AI Fusion – One Prompt. Endless Intelligence.**
+# https://[insert_name].loveable.app
 
 **AI Fusion** is an all-in-one multi-AI powerhouse that transforms a single prompt into:
 
