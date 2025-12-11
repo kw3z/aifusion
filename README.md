@@ -68,8 +68,6 @@ flowchart TD
 
 ## **📂 Tech Stack**
 
-* **Frontend:** React / Flutter (customizable)
-* **Backend:** Node.js / Python APIs
 * **AI Models Integrated:**
 
   * ChatGPT (OpenAI)
